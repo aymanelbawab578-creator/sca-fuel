@@ -8,6 +8,15 @@
       "invoice_record_count": 0,
       "user": "unknown",
       "status": "completed"
+    },
+    {
+      "executed_at": "2026-07-24T19:09:36Z",
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-01",
+      "refuel_record_count": 30,
+      "invoice_record_count": 0,
+      "user": "unknown",
+      "status": "completed"
     }
   ]
 }
