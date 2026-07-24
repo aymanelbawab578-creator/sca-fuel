@@ -1,19 +1,6 @@
 {
   "archives": [
     {
-      "filename": "archive_2026-07-24_22-06-31.sql",
-      "created_at": "2026-07-24T19:06:31Z",
-      "size": 14817,
-      "period_start": "2026-07-01",
-      "period_end": "2026-07-02",
-      "record_count": 43,
-      "refuel_record_count": 43,
-      "invoice_record_count": 0,
-      "program_version": "1.0.0",
-      "archive_version": "1",
-      "database_schema_version": "1"
-    },
-    {
       "filename": "archive_2026-07-24_22-01-47.sql",
       "created_at": "2026-07-24T19:01:47Z",
       "size": 51806,
